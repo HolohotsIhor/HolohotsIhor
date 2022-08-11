@@ -2,7 +2,8 @@
 
 # I'm a FRONT-END developer / HTML coder
 
-##Languages and Tools
+## Languages and Tools
+
 ![HTML5](https://img.shields.io/badge/JavaScript-45934c?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/jQuery-df2435?style=for-the-badge&logo=jquery)
 ![HTML5](https://img.shields.io/badge/react-2432df?style=for-the-badge&logo=react)
@@ -19,4 +20,4 @@
 ![HTML5](https://img.shields.io/badge/webpack-d97e7e?style=for-the-badge&logo=webpack)
 ![HTML5](https://img.shields.io/badge/docker-0089ff?style=for-the-badge&logo=docker)
 
-##Follow Me
+## Follow Me
