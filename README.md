@@ -6,7 +6,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 ![react](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react)
-![jQuery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery)
 ![redux](https://img.shields.io/badge/redux-000000?style=for-the-badge&logo=redux)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
@@ -15,6 +14,8 @@
 ![Scss](https://img.shields.io/badge/Scss-000000?style=for-the-badge&logo=css3)
 ![sass](https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass)
 ![bootstrap](https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery)
+![gulp](https://img.shields.io/badge/yarn-000000?style=for-the-badge&logo=yarn)
 ![gulp](https://img.shields.io/badge/gulp-000000?style=for-the-badge&logo=gulp)
 ![git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git)
 ![webpack](https://img.shields.io/badge/webpack-000000?style=for-the-badge&logo=webpack)
