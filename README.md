@@ -1,6 +1,6 @@
 [![Header](https://github.com/HolohotsIhor/HolohotsIhor/blob/main/assets/header.png)](https://www.linkedin.com/in/ihor-holohots-1610a2171/)
 
-# I'm a FRONT-END developer / HTML coder
+# I'm a javascript developer React/Vue
 
 ## Languages and Tools
 
